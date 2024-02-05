@@ -1,6 +1,10 @@
 # FisComp.py
 Esse repositório vai conter os arquivos, referências e materias da disciplina de Computação Básica para Física em Python.
 
+# Executar Python online
+Um interpretador de python pode ser baixado em seu computador no site [python.org](https://www.python.org/), 
+também é possível utilizar um [interpretador online de python](https://www.online-python.com/).
+
 ## Estrutura dos materiais da disciplina
 
 A [pasta de programas introdutórios](/intro/) da disciplina vai conter alguns exemplos chave iniciais para
