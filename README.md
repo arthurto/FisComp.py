@@ -1,7 +1,12 @@
 # FisComp.py
 Esse repositório vai conter os arquivos, referências e materias da disciplina de Computação Básica para Física em Python.
 
-## Referências Base:
+## Estrutura dos materiais da disciplina
+
+A [pasta de programas introdutórios](/intro/) da disciplina vai conter alguns exemplos chave iniciais para
+servirem de base nos programas que vocês vão desenvolver.
+
+### Referências Base:
 
 - [python.org](https://www.python.org/)
 Website com a documentação oficial do python.
