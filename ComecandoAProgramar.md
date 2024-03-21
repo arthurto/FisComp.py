@@ -66,3 +66,5 @@ Também é possível executar blocos de programas em python na nuvem do Google, 
 No [Google Collab](https://colab.research.google.com/) temos acesso a um notebook que interpreta python online.
 Muitas bibliotecas estão disponíveis e a colaboração entre diferentes colaboradores é facilitada. 
 
+Para começar a testar novos códigos, podemos utilizar o google collab como mostrado nesse [exemplo em vídeo](https://www.youtube.com/watch?v=ww0IcgQp8vI).
+
