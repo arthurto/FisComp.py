@@ -3,7 +3,7 @@ Esse repositório vai conter os arquivos, referências e materias da disciplina 
 
 ## Notas de Aula 
 
-As notas de aula resumidas estão presentes na pasta [FisComp.py/notas_de_aula](FisComp.py/notas_de_aula).
+As notas de aula resumidas estão presentes na pasta [FisComp.py/notas_de_aula](notas_de_aula).
 
 
 # Executar Python online
