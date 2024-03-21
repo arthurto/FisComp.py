@@ -1,6 +1,11 @@
 # FisComp.py
 Esse repositório vai conter os arquivos, referências e materias da disciplina de Computação Básica para Física em Python.
 
+## Notas de Aula 
+
+As notas de aula resumidas estão presentes na pasta [FisComp.py/notas_de_aula](FisComp.py/notas_de_aula).
+
+
 # Executar Python online
 Um interpretador de python pode ser baixado em seu computador no site [python.org](https://www.python.org/), 
 também é possível utilizar um [interpretador online de python](https://www.online-python.com/).
