@@ -54,6 +54,9 @@ Para poder executar python localmente em seu computador, é necessário instalar
 
 ## Python.org 
 
+- Baixar no computador
+- Gratuíto
+
 No [site oficial da linguagem python](https://www.python.org/) é possível baixar o interpretador de python para o seu computador pessoal.
 
 Em um computador com sistema linux podemos instalar python pelo terminal com o comando 
@@ -63,8 +66,25 @@ Também é possível executar blocos de programas em python na nuvem do Google, 
 
 ## Google Collab
 
+- Online 
+- Gratuíto 
+- Em formato notebook
+
 No [Google Collab](https://colab.research.google.com/) temos acesso a um notebook que interpreta python online.
 Muitas bibliotecas estão disponíveis e a colaboração entre diferentes colaboradores é facilitada. 
 
 Para começar a testar novos códigos, podemos utilizar o google collab como mostrado nesse [exemplo em vídeo](https://www.youtube.com/watch?v=ww0IcgQp8vI).
 
+## Kaggle notebook 
+
+- Online
+- Gratuíto 
+- Em formato notebook 
+
+O site do [Kaggle](https://www.kaggle.com/) temos recursos similares aos do Google Collab, bem como uma boa seleção de cursos online de algumas bibliotecas de python, como pandas e matplotlib.
+Também existem cursos sobre inteligência artificial e outros recursos importantes. Tudo em inglês, infelizmente. Mas os seus notebooks podem ser utilizados sem muita complicação. 
+
+Gravei um [pequeno vídeo](https://www.youtube.com/watch?v=SR5y0DdEbMM) mostrando como que podemos utilzar essa funcionalidade.
+
+## Compilador online de matplotlib 
+[Nesse link](tutorialspoint.com/execute_matplotlib_online.php) podemos acessar um recurso online que plota gráficos usando o matplotlib diretamente.
