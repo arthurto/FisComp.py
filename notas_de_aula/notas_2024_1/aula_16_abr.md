@@ -65,3 +65,35 @@ for h in varios_hs:
     print(f"A derivada da função f(x)\n em x = {x_0}\n com passo h = {h}\n é dfdx = {dfdx}")
 ```
 
+O resultado desse script quando executado deve ser algo como: 
+```bash 
+A derivada da função f(x)
+ em x = 2
+ com passo h = 1
+ é dfdx = 5.0
+A derivada da função f(x)
+ em x = 2
+ com passo h = 0.5
+ é dfdx = 4.5
+A derivada da função f(x)
+ em x = 2
+ com passo h = 0.1
+ é dfdx = 4.100000000000001
+A derivada da função f(x)
+ em x = 2
+ com passo h = 0.01
+ é dfdx = 4.009999999999891
+A derivada da função f(x)
+ em x = 2
+ com passo h = 0.001
+ é dfdx = 4.000999999999699
+A derivada da função f(x)
+ em x = 2
+ com passo h = 0.0001
+ é dfdx = 4.0001000000078335
+A derivada da função f(x)
+ em x = 2
+ com passo h = 1e-08
+ é dfdx = 3.999999975690116
+```
+
