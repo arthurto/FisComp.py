@@ -12,9 +12,11 @@ Digamos que queremos calcular o valor do coeficiente angular da reta secante à 
 Para isso vamos precisar de dois pontos que estão sob essa curva, um deles pode ser o ponto $(x_0,f(x_0))$. O outro pode ser o ponto $(x_0 + h, f(x_0 + h))$. 
 
 A razão entre a diferença vertical e a horizontal pode ser escrita como:
+
 $$ \frac{f(x_0 + h) - f(x_0)}{(x_0 + h) - x_0} = \frac{f(x_0 + h) - f(x_0)}{h}.$$
 
 A definição de derivada por limites é muito similar à expressão anterior, na verdade a definição de derivada é igual à expressão anterior acrescida de um limite:
+
 $$ \frac{df}{dx} = \lim_{h \rightarrow 0 } \frac{f(x+h) - f(x)}{h}.$$
 
 Tomando o limite de $h$ indo a zero nós obtemos a definição da derivada. 
