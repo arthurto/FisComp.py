@@ -1,7 +1,6 @@
-# O objetivo desse programa é criar uma função 
-# que tem como entrada dois arrays 
-# e gera como saída um arquivo no diretório de execução
-def gerar_arquivo(x,y):
+# 
+
+def gera_file(nome,x,y):
     pass
 
-# estudar=> "https://www.freecodecamp.org/portuguese/news/como-escrever-em-um-arquivo-em-python-open-read-append-e-outras-funcoes-de-manipulacao-explicadas/"
+gera_file('nome.txt',[1,2,3],[3,2,1])
